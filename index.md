@@ -1,6 +1,6 @@
-
-![Image](/portrait.jpg)
-
+{:refdef: style="text-align: center;"}
+![Image](/portrait_150x150.jpg)
+{: refdef}
 
 # 基本信息
 **姓 名**  ：猪小明         
