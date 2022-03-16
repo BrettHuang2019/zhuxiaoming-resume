@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/BrettHuang2019/zhuxiaoming-resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# 基本信息
+**姓 名**  ：猪小明         
+**民 族**  ：汉        
+**出生年月**：1998.08   
+**电 话**  ：13812348888     
+**邮 箱**：8888@163.com    
+**住 址**：福建省厦门市思明区     
+**身 高**：166cm    
+**政治面貌**：中共预备党员    
+**毕业院校**  ：职业圈科技大学    
+**学 历**  ：本科
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 教育背景
+### 2009.09 - 2013.07      职业圈科技大学       市场营销   （本科）
+**主修课程**：
+管理学、微观经济学、宏观经济学、管理信息系统、统计学、会计学、财务管理、市场营销、经济法、消费者行为学、国际市场营销
 
-### Markdown
+# 实习经历
+###  2010.03 - 2011.06         厦门市XXXX有限公司         校园大使主席
+- 带领自己的团队，辅助XXXX完成在各高校的“XX计划”，向全球顶尖的XXXX金融公司推送实习生资源。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 整体运营前期开展了相关的线上线下宣传活动，中期为进行咨询的人员提供讲解。后期进行了项目的维护阶段，保证了整个项目的完整性。
 
-```markdown
-Syntax highlighted code block
+### 2012.09 - 2013.06至今     厦门市职业圈信息科技有限公司     市场营销    （实习生）
+- 负责公司线上端资源的销售工作（以开拓客户为主），公司主要资源以广点通、智汇推、百度、小米、360、沃门户等；
 
-# Header 1
-## Header 2
-### Header 3
+- 实时了解行业的变化，跟踪客户的详细数据，为客户制定更完善的投放计划（合作过珍爱网、世纪佳缘、56视频、京东等客户）
 
-- Bulleted
-- List
+### 2013.09 - 2017.03     厦门市职业圈信息科技有限公司     销售经理
+- 负责公司业务系统的设计及改进，参与公司网上商城系统产品功能设计及实施工作。
 
-1. Numbered
-2. List
+- 负责客户调研、客户需求分析、方案写作等工作， 参与公司多个大型电子商务项目的策划工作，担任大商集团网上商城一期建设项目经理。
 
-**Bold** and _Italic_ and `Code` text
+# 技能证书
+-  普通话一级甲等；
+- 大学英语四/六级（CET-4/6），良好的听说读写能力，快速浏览英语专业文件及书籍；
+- 通过全国计算机二级考试，熟练运用office相关软件。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrettHuang2019/zhuxiaoming-resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 自我评价
+深度互联网从业人员，对互联网保持高度的敏感性和关注度，熟悉产品开发流程，有很强的产品规划、需求分析、交互设计能力，能独立承担APP和WEB项目的管控工作，善于沟通，贴近用户。
